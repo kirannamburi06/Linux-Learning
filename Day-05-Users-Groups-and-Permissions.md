@@ -1,4 +1,4 @@
-# Day Y: Users, Groups, and Permissions – How Linux Controls Access
+# Day 5: Users, Groups, and Permissions – How Linux Controls Access
 
 Hello everyone.
 
@@ -192,7 +192,7 @@ These bits mean different things for files and directories.
 
 ---
 
-## Directory Permissions (Very Important)
+## Directory Permissions
 
 For directories:
 
