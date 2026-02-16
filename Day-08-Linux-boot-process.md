@@ -211,7 +211,7 @@ The default target is set by a symbolic link at `/etc/systemd/system/default.tar
 
 When systemd starts, it activates the default target. Each target has dependencies, which are other units that must be started. systemd resolves these dependencies and starts units in the correct order.
 
-Learn more about systemd here : [text](https://github.com/kirannamburi06/Linux-Learning/blob/main/Day-07-Systemd-units-services.md)
+Learn more about systemd here : [Day-07-Systemd-units-services](https://github.com/kirannamburi06/Linux-Learning/blob/main/Day-07-Systemd-units-services.md)
 
 ---
 
